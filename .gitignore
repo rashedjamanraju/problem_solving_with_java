@@ -1,0 +1,27 @@
+# Compiled Java classes
+*.class
+
+# Configuration files (user-specific)
+ai_tutor_config.properties
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Log files
+*.log
+
+# Build artifacts
+target/
+build/
+dist/
